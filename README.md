@@ -51,3 +51,4 @@ GET/api/statistic/activity/{customerCount}?startDate= 2020-7-21&endDate= 2020-7-
 GET/api/statistic/income/{categoryId}?startDate= 2020-7-21&endDate= 2020-7-22 – Gets the income of category in a period of time, for example, from 2020-7-21 to 2020-7-22
 
 ```
+This project was a part of Epam training course.
